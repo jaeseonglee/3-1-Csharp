@@ -1,0 +1,6 @@
+C:\Users\SAMSUNG\Desktop\C# 1주차\Number1\Number1\bin\Debug\Number1.exe.config
+C:\Users\SAMSUNG\Desktop\C# 1주차\Number1\Number1\bin\Debug\Number1.exe
+C:\Users\SAMSUNG\Desktop\C# 1주차\Number1\Number1\bin\Debug\Number1.pdb
+C:\Users\SAMSUNG\Desktop\C# 1주차\Number1\Number1\obj\Debug\20165153.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\C# 1주차\Number1\Number1\obj\Debug\Number1.exe
+C:\Users\SAMSUNG\Desktop\C# 1주차\Number1\Number1\obj\Debug\Number1.pdb
