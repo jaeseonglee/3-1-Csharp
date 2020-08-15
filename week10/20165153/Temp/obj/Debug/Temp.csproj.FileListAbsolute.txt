@@ -1,0 +1,11 @@
+C:\Users\SAMSUNG\Desktop\C# 10주차\20165153\Temp\bin\Debug\Temp.exe.config
+C:\Users\SAMSUNG\Desktop\C# 10주차\20165153\Temp\bin\Debug\Temp.exe
+C:\Users\SAMSUNG\Desktop\C# 10주차\20165153\Temp\bin\Debug\Temp.pdb
+C:\Users\SAMSUNG\Desktop\C# 10주차\20165153\Temp\obj\Debug\Temp.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\C# 10주차\20165153\Temp\obj\Debug\Temp.Form1.resources
+C:\Users\SAMSUNG\Desktop\C# 10주차\20165153\Temp\obj\Debug\Temp.Form2.resources
+C:\Users\SAMSUNG\Desktop\C# 10주차\20165153\Temp\obj\Debug\Temp.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\C# 10주차\20165153\Temp\obj\Debug\Temp.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\Desktop\C# 10주차\20165153\Temp\obj\Debug\Temp.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\C# 10주차\20165153\Temp\obj\Debug\Temp.exe
+C:\Users\SAMSUNG\Desktop\C# 10주차\20165153\Temp\obj\Debug\Temp.pdb

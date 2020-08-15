@@ -1,0 +1,10 @@
+C:\Users\SAMSUNG\Desktop\C# 9주차\20165153\Number4\bin\Debug\Number4.exe.config
+C:\Users\SAMSUNG\Desktop\C# 9주차\20165153\Number4\bin\Debug\Number4.exe
+C:\Users\SAMSUNG\Desktop\C# 9주차\20165153\Number4\bin\Debug\Number4.pdb
+C:\Users\SAMSUNG\Desktop\C# 9주차\20165153\Number4\obj\Debug\Number4.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\C# 9주차\20165153\Number4\obj\Debug\Number4.Form1.resources
+C:\Users\SAMSUNG\Desktop\C# 9주차\20165153\Number4\obj\Debug\Number4.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\C# 9주차\20165153\Number4\obj\Debug\Number4.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\Desktop\C# 9주차\20165153\Number4\obj\Debug\Number4.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\C# 9주차\20165153\Number4\obj\Debug\Number4.exe
+C:\Users\SAMSUNG\Desktop\C# 9주차\20165153\Number4\obj\Debug\Number4.pdb
