@@ -1,0 +1,7 @@
+C:\Users\SAMSUNG\Desktop\C# 6주차\20165153\Number5\bin\Debug\Number5.exe.config
+C:\Users\SAMSUNG\Desktop\C# 6주차\20165153\Number5\bin\Debug\Number5.exe
+C:\Users\SAMSUNG\Desktop\C# 6주차\20165153\Number5\bin\Debug\Number5.pdb
+C:\Users\SAMSUNG\Desktop\C# 6주차\20165153\Number5\obj\Debug\Number5.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\C# 6주차\20165153\Number5\obj\Debug\Number5.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\C# 6주차\20165153\Number5\obj\Debug\Number5.exe
+C:\Users\SAMSUNG\Desktop\C# 6주차\20165153\Number5\obj\Debug\Number5.pdb

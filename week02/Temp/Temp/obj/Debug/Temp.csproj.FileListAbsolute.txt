@@ -1,0 +1,14 @@
+C:\Users\SAMSUNG\Desktop\C# 2주차\Temp\Temp\bin\Debug\Temp.exe.config
+C:\Users\SAMSUNG\Desktop\C# 2주차\Temp\Temp\bin\Debug\Temp.exe
+C:\Users\SAMSUNG\Desktop\C# 2주차\Temp\Temp\bin\Debug\Temp.pdb
+C:\Users\SAMSUNG\Desktop\C# 2주차\Temp\Temp\obj\Debug\Temp.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\C# 2주차\Temp\Temp\obj\Debug\Temp.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\C# 2주차\Temp\Temp\obj\Debug\Temp.exe
+C:\Users\SAMSUNG\Desktop\C# 2주차\Temp\Temp\obj\Debug\Temp.pdb
+C:\Users\SAMSUNG\Desktop\2020\1학기\윈프 (C#)\실습\C# 2주차\Temp\Temp\bin\Debug\Temp.exe.config
+C:\Users\SAMSUNG\Desktop\2020\1학기\윈프 (C#)\실습\C# 2주차\Temp\Temp\bin\Debug\Temp.exe
+C:\Users\SAMSUNG\Desktop\2020\1학기\윈프 (C#)\실습\C# 2주차\Temp\Temp\bin\Debug\Temp.pdb
+C:\Users\SAMSUNG\Desktop\2020\1학기\윈프 (C#)\실습\C# 2주차\Temp\Temp\obj\Debug\Temp.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\2020\1학기\윈프 (C#)\실습\C# 2주차\Temp\Temp\obj\Debug\Temp.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\2020\1학기\윈프 (C#)\실습\C# 2주차\Temp\Temp\obj\Debug\Temp.exe
+C:\Users\SAMSUNG\Desktop\2020\1학기\윈프 (C#)\실습\C# 2주차\Temp\Temp\obj\Debug\Temp.pdb

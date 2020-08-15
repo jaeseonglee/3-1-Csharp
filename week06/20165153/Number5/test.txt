@@ -1,0 +1,2 @@
+Customer [name=choi, id=ch, year=2020, month=5]
+Customer [name=lee, id=lee, year=2020, month=5]
